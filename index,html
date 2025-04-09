@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Chính sách bảo mật – Gửi thông tin đến N8N/Make</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      line-height: 1.6;
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      background-color: #f9f9f9;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    p {
+      margin-bottom: 1rem;
+    }
+    code {
+      background-color: #eee;
+      padding: 2px 4px;
+      border-radius: 4px;
+      font-family: monospace;
+    }
+  </style>
+</head>
+<body>
+  <h1>Chính sách bảo mật – Gửi thông tin đến N8N/Make</h1>
+  <p><strong>Phiên bản:</strong> 1.0.1</p>
+  <p><strong>Ngày cập nhật:</strong> [Nhập ngày cập nhật]</p>
+  <p><strong>Webhook URL:</strong> <code>https://hook.eu2.make.com/gjghbkslq38dl33owq8dl405wlrahnsb</code></p>
+
+  <h2>1. Mục đích thu thập dữ liệu</h2>
+  <p>Thông tin bạn cung cấp sẽ được sử dụng <strong>duy nhất</strong> để:</p>
+  <ul>
+    <li>Lưu trữ vào Google Sheet phục vụ mục đích thống kê hoặc xử lý dữ liệu nội bộ.</li>
+    <li>Không dùng để quảng cáo, tiếp thị lại hoặc chia sẻ với bên thứ ba ngoài hệ thống đã định nghĩa.</li>
+  </ul>
+
+  <h2>2. Loại dữ liệu được thu thập</h2>
+  <p>Hệ thống sẽ thu thập các thông tin sau:</p>
+  <ul>
+    <li>Họ tên (<code>hoTen</code>)</li>
+    <li>Số điện thoại (<code>soDienThoai</code>)</li>
+    <li>Ngày sinh (<code>ngaySinh</code>)</li>
+    <li>Địa chỉ (<code>diaChi</code>)</li>
+    <li>Đồng ý gửi thông tin (<code>chapNhanGuiThongTin</code>)</li>
+  </ul>
+
+  <h2>3. Bảo mật dữ liệu</h2>
+  <ul>
+    <li>Dữ liệu được truyền qua HTTPS đến webhook của Make/N8N đảm bảo an toàn khi truyền tải.</li>
+    <li>Dữ liệu sẽ chỉ được lưu trữ trong Google Sheets được kiểm soát bởi quản trị viên hệ thống.</li>
+    <li>Không chia sẻ dữ liệu cho bên thứ ba nếu không có sự đồng ý của người dùng.</li>
+  </ul>
+
+  <h2>4. Quyền của người dùng</h2>
+  <p>Người dùng có quyền:</p>
+  <ul>
+    <li>Yêu cầu cập nhật, chỉnh sửa hoặc xóa thông tin đã gửi.</li>
+    <li>Rút lại sự đồng ý gửi thông tin bất cứ lúc nào bằng cách liên hệ với chúng tôi.</li>
+  </ul>
+
+  <h2>5. Liên hệ</h2>
+  <p>Nếu bạn có bất kỳ câu hỏi nào liên quan đến bảo mật dữ liệu, vui lòng liên hệ:</p>
+  <ul>
+    <li><strong>Email:</strong> <a href="mailto:email@example.com">email@example.com</a></li>
+    <li><strong>Đơn vị phụ trách:</strong> [Tên cá nhân / tổ chức]</li>
+  </ul>
+
+  <p><em>🛡️ Chúng tôi cam kết bảo vệ thông tin của bạn và tuân thủ các nguyên tắc bảo mật theo quy định của pháp luật hiện hành.</em></p>
+</body>
+</html>
