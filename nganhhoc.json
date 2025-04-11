@@ -1,0 +1,69 @@
+{
+  "Công nghệ thông tin": {
+    "description": "Nhóm ngành đào tạo về lập trình, phần mềm, dữ liệu và công nghệ số, phù hợp với sinh viên yêu thích công nghệ, logic và sáng tạo.",
+    "majors": [
+      { "name": "Phát triển phần mềm", "url": "https://caodang.fpt.edu.vn/nganh-hoc/phat-trien-phan-mem" },
+      { "name": "Lập trình Web", "url": "https://caodang.fpt.edu.vn/nganh-hoc/lap-trinh-web" },
+      { "name": "Lập trình Mobile", "url": "https://caodang.fpt.edu.vn/nganh-hoc/lap-trinh-mobile" },
+      { "name": "Lập trình Game", "url": "https://caodang.fpt.edu.vn/nganh-hoc/lap-trinh-game" },
+      { "name": "Ứng dụng phần mềm", "url": "https://caodang.fpt.edu.vn/nganh-hoc/ung-dung-phan-mem" },
+      { "name": "Xử lý dữ liệu", "url": "https://caodang.fpt.edu.vn/nganh-hoc/xu-ly-du-lieu" }
+    ]
+  },
+  "Quản trị kinh doanh": {
+    "description": "Nhóm ngành tập trung vào chiến lược kinh doanh, marketing, truyền thông, logistics và dịch vụ – giúp sinh viên nắm vững kỹ năng kinh doanh hiện đại.",
+    "majors": [
+      { "name": "Digital Marketing", "url": "https://caodang.fpt.edu.vn/nganh-hoc/digital-marketing" },
+      { "name": "Marketing & Sales", "url": "https://caodang.fpt.edu.vn/nganh-hoc/marketing-sales" },
+      { "name": "Truyền thông & Tổ chức sự kiện", "url": "https://caodang.fpt.edu.vn/nganh-hoc/truyen-thong-to-chuc-su-kien" },
+      { "name": "Logistics", "url": "https://caodang.fpt.edu.vn/nganh-hoc/logistics" },
+      { "name": "Quản trị Khách sạn – Nhà hàng", "url": "https://caodang.fpt.edu.vn/nganh-hoc/quan-tri-khach-san-nha-hang" },
+      { "name": "Quản trị Dịch vụ du lịch & Lữ hành", "url": "https://caodang.fpt.edu.vn/nganh-hoc/quan-tri-dich-vu-du-lich-lu-hanh" }
+    ]
+  },
+  "Công nghệ kỹ thuật điều khiển & Tự động hoá": {
+    "description": "Trang bị kiến thức về hệ thống điện, điều khiển, tự động hóa – đáp ứng nhu cầu về kỹ thuật công nghiệp và sản xuất thông minh.",
+    "majors": [
+      { "name": "Công nghệ kỹ thuật điện, điện tử", "url": "https://caodang.fpt.edu.vn/nganh-hoc/cong-nghe-ky-thuat-dien-dien-tu" },
+      { "name": "Điện công nghiệp", "url": "https://caodang.fpt.edu.vn/nganh-hoc/dien-cong-nghiep" },
+      { "name": "Công nghệ kỹ thuật điều khiển & Tự động hoá", "url": "https://caodang.fpt.edu.vn/nganh-hoc/cong-nghe-ky-thuat-dieu-khien-tu-dong-hoa" },
+      { "name": "Công nghệ Chip & Bán dẫn", "url": "https://caodang.fpt.edu.vn/nganh-hoc/cong-nghe-chip-ban-dan" }
+    ]
+  },
+  "Thiết kế đồ hoạ": {
+    "description": "Ngành học dành cho những bạn yêu thích mỹ thuật, sáng tạo, thiết kế và các công cụ đồ họa như Photoshop, Illustrator, UI/UX.",
+    "majors": [
+      { "name": "Thiết kế đồ hoạ", "url": "https://caodang.fpt.edu.vn/nganh-hoc/thiet-ke-do-hoa" }
+    ]
+  },
+  "Công nghệ kỹ thuật cơ khí": {
+    "description": "Tập trung vào kỹ thuật sản xuất, cơ khí hiện đại và ứng dụng công nghệ trong chế tạo cơ khí, vận hành thiết bị.",
+    "majors": [
+      { "name": "Công nghệ kỹ thuật cơ khí", "url": "https://caodang.fpt.edu.vn/nganh-hoc/cong-nghe-ky-thuat-co-khi" }
+    ]
+  },
+  "Chăm sóc Sức khỏe và Làm đẹp": {
+    "description": "Đào tạo các kỹ năng thực hành trong ngành thẩm mỹ, chăm sóc sức khoẻ, làm đẹp và spa theo xu hướng hiện đại.",
+    "majors": [
+      { "name": "Chăm sóc da và Spa", "url": "https://caodang.fpt.edu.vn/nganh-hoc/cham-soc-da-va-spa" },
+      { "name": "Trang điểm nghệ thuật", "url": "https://caodang.fpt.edu.vn/nganh-hoc/trang-diem-nghe-thuat" },
+      { "name": "Phun thêu thẩm mỹ", "url": "https://caodang.fpt.edu.vn/nganh-hoc/phun-theu-tham-my" },
+      { "name": "Công nghệ móng", "url": "https://caodang.fpt.edu.vn/nganh-hoc/cong-nghe-mong" }
+    ]
+  },
+  "Ngôn ngữ": {
+    "description": "Phát triển khả năng giao tiếp, dịch thuật và ứng dụng ngoại ngữ vào công việc thực tế, phù hợp với môi trường quốc tế.",
+    "majors": [
+      { "name": "Tiếng Trung Quốc", "url": "https://caodang.fpt.edu.vn/nganh-hoc/tieng-trung-quoc" },
+      { "name": "Tiếng Hàn Quốc", "url": "https://caodang.fpt.edu.vn/nganh-hoc/tieng-han-quoc" },
+      { "name": "Tiếng Anh", "url": "https://caodang.fpt.edu.vn/nganh-hoc/tieng-anh" },
+      { "name": "Tiếng Nhật", "url": "https://caodang.fpt.edu.vn/nganh-hoc/tieng-nhat" }
+    ]
+  },
+  "Dược": {
+    "description": "Ngành học dự kiến đào tạo chuyên sâu về dược phẩm, chăm sóc sức khỏe cộng đồng và kỹ năng y tế cơ bản.",
+    "majors": [
+      { "name": "Dược (dự kiến)", "url": "https://caodang.fpt.edu.vn/nganh-hoc/duoc" }
+    ]
+  }
+}
